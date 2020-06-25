@@ -1,5 +1,5 @@
 <?php
-	define('TWITTER_CONSUMER_KEY', 'bhWmaYBesbHgT7mCyC0wazaCG');
-	define('TWITTER_CONSUMER_SECRET', 'iqnF9A66X5Hrj0Yx5s2DBDvylz4OEiPTLIme6NRACO5Lbr8FH0');
-	define('TWITTER_ACCESS_TOKEN', '1033979326876852224-tqLNuXD5Vfdam9JxBr2bdGU8ADDHew');
-	define('TWITTER_ACCESS_TOKEN_SECRET', 'FvDeq01Bw7HjME9oXHQlFZPSP6XiiisalBcCd6X3Lh2I7');
+	define('TWITTER_CONSUMER_KEY', '******************************');
+	define('TWITTER_CONSUMER_SECRET', '******************************');
+	define('TWITTER_ACCESS_TOKEN', '***********************************');
+	define('TWITTER_ACCESS_TOKEN_SECRET', '*****************************************');
